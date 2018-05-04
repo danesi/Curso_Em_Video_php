@@ -20,6 +20,7 @@ and open the template in the editor.
         <?php
             echo '<h2> Olá Mundo </h2>';
         //Edição de dentro do git
+            //teste de dentro do netbeans
         ?>
     </body>
 </html>
