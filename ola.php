@@ -19,6 +19,7 @@ and open the template in the editor.
         <h1>Testando PHP</h1>
         <?php
             echo '<h2> Olá Mundo </h2>';
+        //Edição de dentro do git
         ?>
     </body>
 </html>
